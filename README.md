@@ -1,6 +1,6 @@
-project name : SALADS
+project name : ♠♠SALADS♠♠
 
-project title : SALADS RESTAURANTS
+project title : ◘SALADS RESTAURANTS◘
 
 problem statement : In this site different types of salads are available and easy to gather the different types of salads at one place? Fresh Healthy Delicious Salads?                        and mainly Healthy foods to eat every day, Tasty and healthy vegetables salad with fresh tomatoes, coriander leaves and more.
 
@@ -26,3 +26,10 @@ LIGHT/DARK MODE SCREEN SHORT
 ![Screenshot (161)](https://user-images.githubusercontent.com/119582244/219728665-705bb28f-f855-4ce5-b77e-32af925094f3.png)
 HEALTHBOTS PAGE SCREEN SHORT
 ![Screenshot (162)](https://user-images.githubusercontent.com/119582244/219728721-fcfaeca7-3538-4136-a074-00f6f44136d0.png)
+
+
+
+****NOTE****
+
+i am unable to edit my recent  project synopsis so still my project synopsis are same as past.
+thanks and regard
