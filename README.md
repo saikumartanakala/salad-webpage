@@ -1,7 +1,11 @@
 project name : SALADS
+
 project title : SALADS RESTAURANTS
+
 problem statement : In this site different types of salads are available and easy to gather the different types of salads at one place? Fresh Healthy Delicious Salads?                        and mainly Healthy foods to eat every day, Tasty and healthy vegetables salad with fresh tomatoes, coriander leaves and more.
-project description : we provided good information about SALADS RESTAURANTS and also, we give our services to people wants it such as Easy Pasta Salad, Rainbow Orzo                            Salad, Creamy Vegan Salad, Broccoli Salad, Cherry Tomato Salad, Healthy Taco Salad
+
+project description : we provided good information about SALADS RESTAURANTS and also, we give our services to people wants it such as Easy Pasta Salad, Rainbow Orzo                            Salad, Creamy Vegan Salad, Broccoli Salad, Cherry Tomato Salad, Healthy Taco Salad.
+
  Azure Technology used : Health Bot, Static Web Apps
  
  PROJECT LINK : https://green-river-0323cd300.2.azurestaticapps.net
