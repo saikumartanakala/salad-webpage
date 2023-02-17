@@ -6,7 +6,7 @@ project description : we provided good information about SALADS RESTAURANTS and 
  
  PROJECT LINK : https://green-river-0323cd300.2.azurestaticapps.net
  
- PROJECT DEMO VIDEO LINK : 
+ PROJECT DEMO VIDEO LINK : https://youtu.be/SH-hXpFej5Y
  
  HOME PAGE SCREEN SHORT
  ![Screenshot (157)](https://user-images.githubusercontent.com/119582244/219728050-9da19b7d-644d-480c-814c-a88cbef51721.png)
